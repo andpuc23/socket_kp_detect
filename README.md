@@ -1,6 +1,10 @@
 # socket_kp_detect
 Repository for DL final project @Skoltech, '22
 
+In this repository we present a project of several artificial neural network, which serve to detect the keypoints of electric car's charging socket type 2
+
+The project was implemented by Andrey Puchkov, Petr Sokerin, Nikita Belousov, Kristian Kuznetsov, Elizaveta Makhneva and Viktor Rakhmatulin
+
 
 ## How to use
 1. ResNetExperiment contains code to train KeypointRCNN, data to train is downloaded in the beginning of the notebook
