@@ -1,6 +1,6 @@
 [submodule "socket-superpoint"]
 	path = socket-superpoint
 	url = https://github.com/nokiroki/socket-superpoint.git
-[submodule "socket_kp_detect"]
-	path = socket_kp_detect
-	url = https://github.com/nokiroki/socket_kp_detect.git
+[submodule "cyclegan_copy"]
+	path = cyclegan_copy
+	url = https://github.com/nokiroki/cyclegan_copy.git
