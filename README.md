@@ -3,7 +3,7 @@ Repository for DL final project @Skoltech, '22
 
 
 ## How to use
-1. ResNetExperiment contains code to train KeypointRCNN, data to train can be acqured by script in `scripts_utils` folder
+1. ResNetExperiment contains code to train KeypointRCNN, data to train is downloaded in the beginning of the notebook
 2. SuperPoint module:
 - Original repo: https://github.com/eric-yyjau/pytorch-superpoint
 Before start working, please, install all packages from original repo as it instructed in the README file.
