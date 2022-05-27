@@ -21,3 +21,7 @@ Set in config/magicpoint_repeatability_heatmap.yaml pretrained: pretrained: 'log
 `python export.py export_descriptor  configs/magicpoint_repeatability_heatmap.yaml superpoint_socket_original2 --eval`
 `python evaluation.py logs/superpoint_socket_original2/predictions --repeatibility --outputImg --homography --plotMatching`
 Results are located in logs/<folder with name of experiment>/predictions/results.txt files
+
+3. GAN part
+To run GAN experiment follow instructions, provided in the cyclegan repo. 
+To reproduce our results use `--dataroot ./train_data/{chosen_dataset} --name socket_3`
